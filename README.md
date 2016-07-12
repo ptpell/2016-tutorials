@@ -1,3 +1,5 @@
+Changing some things for github
+
 # 2016-tutorials
 
 Schedule and links to tutorials on are the Wiki
